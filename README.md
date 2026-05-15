@@ -8,6 +8,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">About me</h2>
 
 ###
@@ -16,7 +18,7 @@
 
 ###
 
-<p align="left">🔗 Connect With Me</p>
+<h2 align="left">🔗 Connect With Me</h2>
 
 ###
 
@@ -31,7 +33,7 @@
 
 ###
 
-<h3 align="left">🛠️ Tech Stack</h3>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 ###
 
@@ -85,18 +87,10 @@
 
 ###
 
-<h3 align="left">✨ Competitive Programming Philosophy</h3>
+<h2 align="left">✨ Competitive Programming Philosophy</h2>
 
 ###
 
 <p align="center">“Debug with patience. Compete with discipline. Improve with consistency.<br>Every problem solved is one step closer to mastery.”</p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ultimaterohit99/ultimaterohit99/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ultimaterohit99/ultimaterohit99/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ultimaterohit99/ultimaterohit99/pacman-output/pacman-contribution-graph.svg">
-</picture>
 
 ###
